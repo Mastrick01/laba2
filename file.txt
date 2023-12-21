@@ -1,0 +1,4 @@
+3
+alex 34 shelk
+123 0 shelk
+shelk 12 shelk

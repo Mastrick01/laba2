@@ -4,7 +4,6 @@
 #include "laba111.h"
 void search(clothes*arr,int n){
 	FILE*fp=fopen("file.txt","r");
-	if(!fp) return;
 	int flt;
 	printf("1-name,2-price,3-material\n");
 	scanf("%d",&flt);
